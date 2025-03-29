@@ -1,5 +1,3 @@
-
-
 # Mentor
 
 Begeleid en assisteer eerstejaars in jaar 1. 
