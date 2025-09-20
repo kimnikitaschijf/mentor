@@ -34,7 +34,7 @@ Je taken bestaan uit:
 - Je helpt in een workshop als de studenten een opdracht hebben gekregen
 - Je doet code/design reviews op leertaken
 - Je beantwoordt vragen over HTML, CSS en JS
-- Je geeft in Portflow feedback op reflecties van eerstejaars en bespreekt hun bewijslast
+- Je geeft in Portflow feedback op reflecties van eerstejaars en bespreekt hun werk
 - Optioneel: Als je het leuk vindt, mag je zelf een workshop of presentatie geven
 
 
