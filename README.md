@@ -1,3 +1,5 @@
+💡 Mijn feedback, geboden hulp etc. staat in mijn Wiki! 
+
 # Mentor
 
 Begeleid en assisteer eerstejaars in jaar 1. 
